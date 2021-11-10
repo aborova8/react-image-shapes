@@ -48,9 +48,9 @@ You can use one of the following types for your image
 | type | cutPercentage | mode |
 | --- | --- | --- |
 | `cut-top-left` | Number of percentage example: 20 | 'x' or 'y' |
-| `cut-top-right` | Number of percentage example: 20) | 'x' or 'y' |
-| `cut-bottom-left` | Number of percentage example: 20) | 'x' or 'y' |
-| `cut-bottom-right` | Number of percentage example: 20) | 'x' or 'y' |
+| `cut-top-right` | Number of percentage example: 20 | 'x' or 'y' |
+| `cut-bottom-left` | Number of percentage example: 20 | 'x' or 'y' |
+| `cut-bottom-right` | Number of percentage example: 20 | 'x' or 'y' |
 | `triangle` | \ | \ |
 | `trapezoid` | \ | \ |
 | `parallelogram` | \ | \ |
