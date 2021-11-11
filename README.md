@@ -31,6 +31,10 @@ class Example extends Component {
 }
 ```
 
+## Online demo
+[Demo](https://codesandbox.io/s/react-image-shapes-example-l3g3t)
+
+
 ## Props
 | Name | Required | Description |
 | --- | --- | --- |
